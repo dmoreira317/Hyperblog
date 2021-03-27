@@ -22,7 +22,11 @@ body
     font-size: 0.8em;
     padding: 0 0 0 1em;
     font-weight: lighter;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: greenyellow;
+>>>>>>> cabecera
 }
 
 #container
